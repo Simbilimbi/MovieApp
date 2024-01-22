@@ -1,0 +1,5 @@
+- [ ] Vue Router is setup in `main.js` with the 2 required routes registered
+- [ ] The Vue Router plugin is "used" by the Vue application instance
+- [ ] The `<RouterView />` component is used in `App.vue` to display the proper page component based on the URL
+- [ ] The `<RouterLink>` component is used to link from a movie on the homepage to it's details page
+- [ ] The movie details page shows the appropriate movie info based on the id from the URL
